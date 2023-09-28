@@ -57,6 +57,20 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+Clone this repository to your desired folder:
+
+git clone https://github.com/Wils-FOURR-speed/Enumerable-project.git
+
+- To trace all linter errors, run
+  ...
+
+  rubocop -A
+  ...
+
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
